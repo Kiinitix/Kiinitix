@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Kiinitix/Kiinitix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently a student in VIT Bhopal.
+- 🌱 I’m currently learning C++.
+- 👯 I’m looking to collaborate on Github.
+- 🤔 I’m looking for help with linux.
+- 💬 Ask me about Python and any tech related stuffs.
+- 📫 How to reach me: @Kiinitix (instagram and twitter).
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I am neither especially clever nor especially gifted. I am only very, very curious.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiinitix&theme=blue-green)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Kiinitix&show_icons=true)
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=Kiinitix)
