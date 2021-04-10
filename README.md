@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently a student in VIT Bhopal.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning Firebase.
 - 👯 I’m looking to collaborate on Github.
 - 🤔 I’m looking for help with linux.
 - 💬 Ask me about Python and any tech related stuffs.
