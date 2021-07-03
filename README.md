@@ -2,10 +2,9 @@
 
 - 🔭 I’m currently a student in VIT Bhopal.
 - 🌱 I’m currently learning JavaScript.
-- 👯 I’m looking to collaborate on Github.
-- 🤔 I’m looking for help with linux.
-- 💬 Ask me about Python and any tech related stuffs.
-- 📫 How to reach me: @Kiinitix (instagram and twitter).
+- 🤔 I’m looking for help with ECC.
+- 💬 Ask me about Python or any tech related stuffs.
+- 📫 How to reach me: @kiinitix (instagram and twitter).
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I am neither especially clever nor especially gifted. I am only very, very curious.
 
