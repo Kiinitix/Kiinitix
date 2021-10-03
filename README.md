@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a student in VIT Bhopal.
+- 🔭 I’m currently a second year student in VIT Bhopal.
 - 🌱 I’m currently learning JavaScript.
-- 🤔 I’m looking for help with ECC.
 - 💬 Ask me about Python or any tech related stuffs.
 - 📫 How to reach me: @kiinitix (instagram and twitter).
 - 😄 Pronouns: He/Him.
