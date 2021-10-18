@@ -27,7 +27,8 @@
 `kabir@kiinitix.git$` locate ghost <br/>
 > LinkedIn: https://www.linkedin.com/in/kabir-dhruw-320653198/ <br/>
 > Twitter: https://twitter.com/kiinitix <br/>
-> Instagram: https://www.instagram.com/kiinitix/
+> Instagram: https://www.instagram.com/kiinitix/ <br/>
+> Blog: https://kiiocity.wordpress.com/
 
 `kabir@kiinitix.git$` cat /etc/hosts <br/>
 > Portfolio: 
