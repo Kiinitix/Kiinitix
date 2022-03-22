@@ -43,6 +43,6 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiinitix&theme=blue-green)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Kiinitix&show_icons=true)
-<!--
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Kiinitix)
--->
+
