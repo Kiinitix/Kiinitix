@@ -9,7 +9,7 @@
 > Role: Cyber Security Enthusiast | Machine Learning Enthusiast | Frontend Developer <br/>
 
 `kabir@kiinitix.git$` userdesc <br/>
-> *Cyber Security Enthusiast with keen interest in Application Security and Ethical Hacking Tool Development. In addition to that, I specialize in Frontend Development and Python Development so as to understand the working of common applications and common vulnerabilities which developers leave while working on a project.* 
+> *Cybersecurity Enthusiast with a keen interest in Application Security and Ethical Hacking Tool Development. In addition to that, I specialize in Frontend Development and Python Development to understand the working of common applications and common vulnerabilities which developers leave while working on a project.* 
 
 `kabir@kiinitix.git$` list_top_languages <br/>
  > [#] Python <br/>
