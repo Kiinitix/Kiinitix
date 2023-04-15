@@ -40,8 +40,13 @@
 `root@kiinitix.git$` list_secret_projects <br/>
 > The projects will be released soon! Stay Tuned.
 
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/kiinitix/count.svg" />
+</p>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiinitix&theme=blue-green)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Kiinitix&show_icons=true)
+
 
