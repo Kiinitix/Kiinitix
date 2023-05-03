@@ -30,9 +30,8 @@
 > LinkedIn: https://www.linkedin.com/in/kabir-dhruw/ <br/>
 > Twitter: https://twitter.com/kiinitix <br/>
 > Instagram: https://www.instagram.com/kiinitix/ <br/>
-> Blog: https://kiiocity.wordpress.com/
-> Photography: https://kiinitix.github.io/Shutterbuggin/
-> 
+> Blog: https://kiiocity.wordpress.com/ </br>
+> Photography: https://kiinitix.github.io/Shutterbuggin/ </br>
 
 `kabir@kiinitix.git$` cat /etc/hosts <br/>
 > Portfolio: 
@@ -41,9 +40,9 @@
 > Password: ************************ <br/>
 
 `root@kiinitix.git$` list_secret_projects <br/>
-> Kavach OS: https://www.kavach.org.in/
-> Colossus: https://kiinitix.github.io/colossus-site/
-> Malware Detection: https://github.com/Kiinitix/Malware-Detection-using-Machine-
+> Kavach OS: https://www.kavach.org.in/ <br/>
+> Colossus: https://kiinitix.github.io/colossus-site/ <br/>
+> Malware Detection: [https://github.com/Kiinitix/Malware-Detection-using-Machine-](https://github.com/Kiinitix/Malware-Detection-using-Machine-learning) <br/>
 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiinitix&theme=blue-green)
