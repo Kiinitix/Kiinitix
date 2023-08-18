@@ -8,6 +8,9 @@
 > Name: Kabir Dhruw <br/>
 > Role: Cloud Developer | Cyber Security Enthusiast | Machine Learning Enthusiast | Full Stack Developer <br/>
 
+`kabir@kiinitix.git$` journalctl <br>
+> Got placed in Shell India Markets Pvt Ltd as an Associate IT Engineer <br/>
+
 `kabir@kiinitix.git$` userdesc <br/>
 > *Cybersecurity Enthusiast with a keen interest in Ethical Hacking Tool Development, Cloud Architecture Design and Cloud Infrastructure Development. In addition to that, I specialize in Backend Web Development and Python Development to understand the working of common applications and common vulnerabilities which developers leave while working on a project. My live centers on improving humanity, and I love where I am at right now. Fun fact: I am neither especially clever nor especially gifted. I am only very, very curious.* 
 
