@@ -6,7 +6,7 @@
 
 `kabir@kiinitix.git$` whoami <br/>
 > Name: Kabir Dhruw <br/>
-> Role: Cloud Developer | Cyber Security Enthusiast | Machine Learning Enthusiast | Full Stack Developer <br/>
+> Role: Cloud Developer | Cyber Security Enthusiast | Machine Learning Enthusiast <br/>
 
 `kabir@kiinitix.git$` journalctl <br>
 > Cloud! Cloud! Cloud!<br/>
@@ -16,18 +16,13 @@
 
 `kabir@kiinitix.git$` list_top_languages <br/>
  > [#] Python <br/>
- > [#] Terraform <br/>
  > [#] Java <br/>
  > [#] Bash <br/>
  > [#] SQL <br/>
- > [#] C <br/>
- > [#] C++ <br/>
- > [#] JavaScript <br/>
 
 `kabir@kiinitix.git$` get_security_skills <br/>
  > [#] Cloud Security <br/>
  > [#] Network Penetration Testing <br/>
- > [#] Web Application Penetration Testing <br/>
 
 `kabir@kiinitix.git$` locate ghost <br/>
 > LinkedIn: https://www.linkedin.com/in/kabir-dhruw/ <br/>
