@@ -30,20 +30,19 @@
  > [#] Secure Architecture Design <br/>
 
 `kabir@kiinitix.git$` ls ~/projects <br/>
-> [#] FluxCompute/         # A stateless execution framework that hates orchestration <br/>  
-> [#] KernelFaaS/          # eBPF serverless functions inside the Linux kernel (because why not?) <br/>  
-> [#] RapidDedup/          # Real-time deduplication with Kafka & Redis <br/>  
-> [#] ClusterForge/        # Prototyping HPC and job scheduling on a dev machine <br/>  
-> [#] SimuDB/              # Geo-distributed database simulator <br/>  
-> [#] BlitzMatrix/         # Matrix multiplication on performance steroids (Rust + C++) <br/>  
-> [#] KavachOS/            # Security-focused OS experiments <br/>  
-> [#] BuddyQuest/          # Making your hangouts feel like RPG quests <br/>  
-> [#] DodgeBot/            # Because sometimes you just need to dodge falling objects <br/>
+> [#] FluxCompute/         # A stateless execution framework that hates orchestration <br/> 
+> [#] KernelFaaS/          # eBPF serverless functions inside the Linux kernel (because why not?) <br/>
+> [#] Pluggable-Rust-Kernel/ # Modular Rust kernel with runtime plugin system  <br/>
+> [#] RapidDedup/          # Real-time deduplication with Kafka & Redis <br/>
+> [#] ClusterForge/        # Prototyping HPC and job scheduling on a dev machine <br/>
+> [#] SimuDB/              # Geo-distributed database simulator <br/>
+> [#] BlitzMatrix/         # Matrix multiplication on performance steroids (Rust + C++) <br/>
+> [#] KavachOS/            # Security-focused OS experiments <br/>
 > [#] Malware-Detection-ML/ # Anomaly-based malware detection (PE + URL) using ML <br/> 
 > [#] VM-Introspection-ML/ # Malware detection at hypervisor level with adversarial autoencoders  <br/>
-> [#] Pluggable-Rust-Kernel/ # Modular Rust kernel with runtime plugin system  <br/>
-> [#] BuddyQuest/          # Making your hangouts feel like RPG quests  <br/>
-> [#] DodgeBot/            # Because sometimes you just need to dodge falling objects  <br/> 
+> [#] BuddyQuest/          # Making your hangouts feel like RPG quests <br/>
+> [#] DodgeBot/            # Because sometimes you just need to dodge falling objects <br/>
+
  
 `kabir@kiinitix.git$` locate ghost <br/>
 > LinkedIn: https://www.linkedin.com/in/kabir-dhruw/ <br/>
